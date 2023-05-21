@@ -6,6 +6,7 @@ A Vim-like configuration for Helix, forked from [LGUG2Z](https://github.com/LGUG
 
 1. Enable the relative line number
 2. `dd`, `yy` support multi-line operation, [refer](https://github.com/LGUG2Z/helix-vim/issues/13)
+3. Remove `O`, `o` customized
 
 ## Usage
 
